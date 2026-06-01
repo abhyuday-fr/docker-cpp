@@ -25,6 +25,7 @@ unit_test
 *.swo
 *~
 .DS_Store
+.gdb_history
 
 # Dependencies fetched by CMake
 _deps/
